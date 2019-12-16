@@ -56,7 +56,7 @@ iframe {
 	-webkit-backface-visibility: hidden; /* Fixes transition flickering in Chrome and Safari */
 }
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Noto Sans TC', 'Source Sans Pro', sans-serif;
     background-color: #283645;
     color: #73879C;
     font-size: 18px;
@@ -117,7 +117,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Noto Sans TC', 'Lato', sans-serif;
     font-weight: 700;
 	letter-spacing: 0.025em;
     color: #506A85;
@@ -199,7 +199,7 @@ ol li {
 	margin-bottom: 5px;
 }
 ul.arrowed li:before {
-    font-family: 'fontello';
+    font-family: 'Noto Sans TC', 'fontello';
 	font-size: 75%;
     font-weight: normal;
     color: #1ABB9C;
@@ -210,7 +210,7 @@ ul.arrowed li:before {
 	position: absolute;
 }
 ul.circled li:before {
-    font-family: 'fontello-circle';
+    font-family: 'Noto Sans TC', 'fontello-circle';
     content: '\e800';
     font-size: 8px;
     font-weight: normal;
@@ -584,7 +584,7 @@ figure.post-media + * {
 .member figcaption h2 span,
 .member figcaption h3 span {
 	display: block;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Noto Sans TC', 'Source Sans Pro', sans-serif;
 	font-weight: 400;
 	letter-spacing: 0.015em;
 }
@@ -613,7 +613,7 @@ figure.post-media + * {
 	display: inline;
 	position: relative;
 	content: "\201C";
-	font-family: inherit;
+	font-family: 'Noto Sans TC', inherit;
 	font-size: inherit;
 	margin-right: 2px;
 }
@@ -1625,7 +1625,7 @@ aside .thumb figure {
     background: #1ABB9C;
     padding: 11px 20px 13px;
 	margin: 15px 0;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Noto Sans TC', 'Source Sans Pro', sans-serif;
     font-weight: 700;
     font-size: 14px;
 	letter-spacing: 0.02em;
@@ -1857,7 +1857,7 @@ aside .thumb figure {
 .btn-share-xs p {
 	position: absolute;
 	height: 1.1em;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Noto Sans TC', 'Lato', sans-serif;
 	line-height: 100%;
 	color: #FFF;
 	margin: auto;
@@ -1914,7 +1914,7 @@ p .btn {
 	font-weight: 700;
 }
 .txt-btn:after {
-	font-family: 'fontello';
+	font-family: 'Noto Sans TC', 'fontello';
 	font-size: 75%;
 	content: '\e846';
 	margin-left: 7px;
@@ -1937,7 +1937,7 @@ p .btn {
     margin: 0;
 }
 .social li {
-    font-family: 'fontello-social';
+    font-family: 'Noto Sans TC', 'fontello-social';
     margin-right: 4px;
 }
 .social li {
@@ -2066,7 +2066,7 @@ p .btn {
 	border-top-color: #1ABB9C;
 }
 .tabs-side .tab a div {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Noto Sans TC', 'Lato', sans-serif;
 	font-size: 40px;
 	line-height: 100%;
 	font-weight: 200;
@@ -2125,7 +2125,7 @@ p .btn {
 	overflow: hidden;
 }
 .tabs-top .tab a div {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Noto Sans TC', 'Lato', sans-serif;
 	font-size: 40px;
 	line-height: 100%;
 	font-weight: 200;
@@ -2198,7 +2198,7 @@ p .btn {
 	overflow: hidden;
 }
 .tabs-circle-top .tab a div {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Noto Sans TC', 'Lato', sans-serif;
 	font-size: 40px;
 	line-height: 100%;
 	font-weight: 200;
@@ -2355,7 +2355,7 @@ blockquote {
 blockquote:before {
     display: block;
 	position: relative;
-    font-family: 'fontello';
+    font-family: 'Noto Sans TC', 'fontello';
     content: '\275e';
     font-size: 40px;
 	line-height: 100%;
@@ -2428,7 +2428,7 @@ blockquote:before {
 	border-color: inherit !important;
 }
 .panel-title {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Noto Sans TC', 'Source Sans Pro', sans-serif;
     font-size: 15px;
 	line-height: 1.42857;
     font-weight: 700;
@@ -2479,7 +2479,7 @@ blockquote:before {
 	color: transparent;
 }
 .panel-title > a span:after {
-	font-family: "fontello";
+	font-family: 'Noto Sans TC', "fontello";
 	content: "\e849";
 	position: absolute;
 	top: 0;
@@ -2733,7 +2733,7 @@ blockquote:before {
 	vertical-align: middle;
 	width: 100%;
 	height: auto;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Noto Sans TC', 'Source Sans Pro', sans-serif;
 	font-size: 14px;
 	line-height: 22px;
 	/*color: #FFF;*/
@@ -2910,7 +2910,7 @@ blockquote:before {
     opacity: 1;
 }
 .icon-overlay a .icn-more:before {
-    font-family: 'fontello';
+    font-family: 'Noto Sans TC', 'fontello';
     font-style: normal;
     font-weight: normal;
     speak: none;
@@ -2959,7 +2959,7 @@ blockquote:before {
 }
 .item-details li:before {
 	content: "";
-	font-family: "fontello";
+	font-family: 'Noto Sans TC', "fontello";
     color: #506A85;
     margin-right: 10px;
 }
@@ -3449,7 +3449,7 @@ blockquote:before {
 	margin-bottom: 15px;
 }
 .pricing .plan .price * {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Noto Sans TC', 'Lato', sans-serif;
 	line-height: 100%;
 }
 .pricing .plan .price .amount {
@@ -3781,7 +3781,7 @@ input:focus:-ms-input-placeholder {
 .meta li.categories:before,
 .meta li a:before {
 	content: "";
-	font-family: "fontello";
+	font-family: 'Noto Sans TC', "fontello";
 	margin-right: 6px;
 }
 .meta li.categories a:before,
@@ -4074,7 +4074,7 @@ input:focus:-ms-input-placeholder {
 /*===================================================================================*/
 
 .author {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Noto Sans TC', 'Lato', sans-serif;
     font-size: 14px;
 	font-weight: 700;
     line-height: 160%;
@@ -4188,7 +4188,7 @@ input:focus:-ms-input-placeholder {
     position: absolute;
 	right: 18px;
     content: "\e762";
-    font-family: 'fontello';
+    font-family: 'Noto Sans TC', 'fontello';
     font-size: 18px;
 	-webkit-transition: all 200ms ease-out;
 	   -moz-transition: all 200ms ease-out;
@@ -4249,7 +4249,7 @@ input:focus:-ms-input-placeholder {
 	float: none;
 	display: inline-block;
     color: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Noto Sans TC', 'Source Sans Pro', sans-serif;
     background: #1ABB9C;
     padding: 11px 20px 13px;
 	margin-left: 0;
@@ -4356,7 +4356,7 @@ input:focus:-ms-input-placeholder {
 	float: left;
 }
 #comments .message .meta li.reply a:before {
-	font-family: 'fontello';
+	font-family: 'Noto Sans TC', 'fontello';
 	content: "\e712";
 	margin-right: 6px;
 }
